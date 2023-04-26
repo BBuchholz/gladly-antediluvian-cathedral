@@ -79,19 +79,16 @@ ntl deploy --prod
 
 ## Checklist
 
-When you use this template, try to follow the checklist to update your info properly 
+DELETE THESE AS THEY ARE DONE
 
-- [ ] Modify LICENSING as needed
 
-- [ ] Change the title in `App.vue` 
-- [ ] Change title on home page
 
-- [ ] Change the default MYRIAD SYMBOL to reflect Desired Branding
 
-- [ ] Change the hostname in `vite.config.ts`
+- [ ] Change the default MYRIAD SYMBOL to reflect Desired Branding (TODO: LETS PICK A NEW SYMBOL FOR MUSIC)
+
 - [ ] change all github links to point to the proper site
 - [ ] change demo link to hosted site
-- [ ] add Logo to index.vue
+- [ ] add Logo to index.vue, copy from nameless-star...
 
 - [ ] Change the favicon in `public`
 

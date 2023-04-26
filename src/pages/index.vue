@@ -19,11 +19,11 @@ const { t } = useI18n()
     <img alt="Coventry Grove Builders Association Presents logo" src="/CGBAP_LOGO_CROPPED.png">
     <p>
       <a rel="noreferrer" href="https://github.com/BBuchholz/worthy-mountain" target="_blank">
-        Worthy Mountain
+        Sonic Circle
       </a>
     </p>
     <p>
-      <em text-sm opacity-75>base template for all Coventry Grove Projeckts</em>
+      <em text-sm opacity-75>A Place 4 Musicians 2 Play</em>
     </p>
 
     <div py-4 />
