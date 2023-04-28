@@ -16,7 +16,7 @@ const { t } = useI18n()
 
 <template>
   <div>
-    <img alt="Sonic Circle logo" src="/Sonic Circle-logos_transparent.png">
+    <img alt="Sonic Circle logo" src="/Sonic-Circle-logos_transparent.png">
     <TheInput
       v-model="name"
       placeholder="enter myrKi..."
